@@ -10,7 +10,7 @@ The purpose of this analysis is to derive valuable insights that can help busine
 3. In a month of August there are more online Products sales.
 4. Nest-USA is most Popular Category amongs other.
 
-#DASH:
+#DASH:<img src="Online shopping dash2.png" width="500"/> &nbsp;
 
 
 
